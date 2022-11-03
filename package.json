@@ -1,0 +1,11 @@
+{
+    "name": "scripts_for_hugo_sites",
+    "authors": "Oliver Atkinson",
+    "version": "1.0.0",
+    "scripts": {
+        "purge": "rm -r public/* && rm -r resources/*",
+        "build": "hugo",
+        "live": "hugo server",
+        "live_jump-to-reload": "hugo server --navigateToChanged"
+    }
+}

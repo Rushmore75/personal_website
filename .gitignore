@@ -1,0 +1,7 @@
+.vscode/
+# Contents of these files are generated with the command
+# `hugo`, no need to add them to the repo.
+public/
+resouces/
+
+.hugo_build.lock
