@@ -5,7 +5,6 @@
     "scripts": {
         "purge": "rm -r public/* && rm -r resources/*",
         "build": "hugo",
-        "live": "hugo server",
-        "live_jump-to-reload": "hugo server --navigateToChanged"
+        "live_jump-to-reload": "hugo server --navigateToChanged --buildDrafts"
     }
 }
