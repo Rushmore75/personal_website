@@ -1,3 +1,6 @@
 [submodule "themes/lugo"]
 	path = themes/lugo
 	url = https://github.com/Rushmore75/lugo.git
+[submodule "personal_website_server"]
+	path = personal_website_server
+	url = https://github.com/Rushmore75/personal_website_server.git
