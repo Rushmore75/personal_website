@@ -1,1 +1,0 @@
-This bianary is a [rocket.rs](https://rocket.rs/) server that is working as a static site server, built from a quick template. It's expecting the contents of `public/` to be moved to `server/www/`, as this is where the server is coded to find the site.
