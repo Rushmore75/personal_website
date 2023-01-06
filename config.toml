@@ -1,4 +1,4 @@
-baseURL = 'http://127.0.0.1'
+baseURL = 'http://127.0.0.1:8000'
 languageCode = 'en-us'
 title = 'Oliver Atkinson'
 theme = 'lugo'
