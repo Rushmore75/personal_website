@@ -4,4 +4,4 @@ ___
 
 # Development notes:
 * `public/` is where hugo builds the site to.
-* `server/` holds a slightly modified version of [this](https://github.com/Rushmore75/rust_server_template) repository, making a quick static site server.
+* `personal_website_server/` holds a slightly modified version of [this](https://github.com/Rushmore75/rust_server_template) repository, making a quick static site server.
