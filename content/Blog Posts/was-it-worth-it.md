@@ -1,7 +1,7 @@
 ---
 title: "Was it worth it?"
 date: 2022-11-03T12:52:54-06:00
-draft: true
+draft: false
 tags: ['phycology']
 description: "Can you justify your actions?"
 ---
@@ -10,16 +10,16 @@ Was it worth it?
 
 An interesting observation as of late is how attached to social medias people are. I used to be the same way. In some ways I still am. Granted, they can be useful, connecting with friends and family. However, once you spend more than a few minutes a week what are you achieving? 
 
-You may have convinced yourself that there is something to gain by checking each platform daily (even hourly, minutely?!). But if you were to take a critical look at your usage I think most people would agree that they spend too much time. Just look at people talk about TikTok, nearly everyone that uses it confesses to using it too much. Without looking all that hard we can see there is a problem. But what if we took this critical look a step further? 
+You may have convinced yourself that there is something to gain by checking each platform daily (even hourly, minutely?!). But if you were to take a critical look at your usage I think most people would agree that they spend too much time. Just look at people talk about TikTok, nearly everyone that uses it confesses to using it too much. Without trying all that hard we can see there is a problem. But what if we went a step further, take a more critical look? 
 	
-In all of our lives we have something I would like to denote as “wasted time.” This is just a fact of the age we are in. This is the time you have when you arrive to the maintenance shop a little early and they haven’t quite finished changing the oil in your car. Or sitting in the waiting room for your dental appointment. Many people are fine with filling this “wasted time” with checking their phone. Just look around next time you ride any public transportation. You'll see.
+In all of our lives we have something I would like to denote as “wasted time.” This is just a fact of the age we are in. This is the time you have when you arrive to the maintenance shop a little early and they haven’t quite finished fixing your car. Or sitting in the waiting room for your dental appointment. Many people are fine with filling this “wasted time” with checking their phone. Just look around next time you ride any public transportation. You'll see.
 	
 But since we are taking a more critical look than most we must also examine this “wasted time” and decide if it became “wasted” *before* or *after* we decided to fill it with scrolling. To analyze this we need to think about the idea of taking a snapshot of our individual existence, all of your cumulative knowledge. Take this snapshot of your life just before you open your phone. Then take another snapshot after your close it. If we were able to quantify your knowledge, we could pipe this into a simple math equation:
 
     Where:
-	    K1  Is knowledge before.
-	    K2  Is knowledge after.
-	    Kg  Is gained knowledge.
+	    K1 | Is knowledge before.
+	    K2 | Is knowledge after.
+	    Kg | Is gained knowledge.
 
     K2 – K1 = Kg
 
@@ -34,9 +34,9 @@ But now you are saying:
 (Now let’s acknowledge that this is a very unlikely situation.) But for the sake of this argument let’s add another value to our snapshots. We will take our happiness/contentment/joy/etc and set it to a variable named `H`. So now our equation looks like:
 	
     Where:
-		H1  Is happiness before.
-		H2  Is happiness after.
-		Hg  Is happiness gained.
+		H1 | Is happiness before.
+		H2 | Is happiness after.
+		Hg | Is happiness gained.
 
 	 H2 – H1 = Hg
 
@@ -47,7 +47,8 @@ Now the two equations combined:
 Now let's convert the product to a single value, `S`, this is your status as a whole.
 
 	Where:
-		S  Is status
+		S | Is status
+		Kg + Hg = S
 
 	(K2 – K1) + (H2 - H1) = S
 
@@ -63,7 +64,7 @@ So now we are back in that cement box. You are sitting there, and for some reaso
 
 >See everyone is having the time of their life on that cool trip to Greece. Then look, you friends are either getting married or having kids already! What are you doing with your life? Sitting in this cement box. So obviously you’ll never amount to the things of everyone else. 
 
->“Mr. Anderson? We are finished with your car, you can pay at the desk.” You turn off your phone and start the rest of your life.
+>“John Doe? We are finished with your car, you can pay at the desk.” Says the clerk. You turn off your phone and start the rest of your life.
 
 I don’t know about you but at this point my `H2` value is defiantly lower than my `H1` value. So when we plug that into our equation we have:
 
@@ -77,4 +78,4 @@ Snapshots wouldn’t have to be across a short time frame either. It could be be
 
 Now remember, the goal is to have the lifetime’s `S` value be greater than 0. So doing something “dumb” right now that might boost your short-term `S` value above 0 but may also cause it to drop in equal or possibly greater value later. Thus netting a negative `S`. 
 
-So while it may be be possible to justify foolish things in the short-term. If used correctly by using theoretical values for a theoretical “after” snapshot, you can get an example of what your status will be if you chose any given action. And there are plenty of people around you to gather theoretical data points to use for your own calculations to decide if you should do something.
+So while it may be be possible to justify foolish things in the short-term. If used correctly by using theoretical values for a theoretical “after” snapshot, you can get an example of what your status will be if you chose any given action. And there are plenty of people around you to gather these theoretical data points from to use for your own calculations to decide if you should do something.
