@@ -3,5 +3,5 @@
 # `hugo`, no need to add them to the repo.
 public/
 resouces/
-
+site_server
 .hugo_build.lock
