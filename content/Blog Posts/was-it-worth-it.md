@@ -2,7 +2,7 @@
 title: "Was it worth it?"
 date: 2022-11-03T12:52:54-06:00
 draft: false
-tags: ['phycology']
+tags: ['psychology']
 description: "Can you justify your actions?"
 ---
 
